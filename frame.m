@@ -7,4 +7,9 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-lazy.m
+-(<#instancetype#>)<#name#> {
+    if(!_<#name#>){
+        <#creation#>
+    }
+    return _<#name#>
+}
