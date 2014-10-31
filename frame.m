@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
 -(<#instancetype#>)<#name#> {
     if(!_<#name#>){
-        <#creation#>
+        _<#name#> = [[<#name#> alloc] init];
     }
     return _<#name#>
 }
