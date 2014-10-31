@@ -1,11 +1,11 @@
 // UITableViewDataSource
 // Placeholders for required UITableViewDataSource delegate methods
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 4F37C729-745C-414A-AC3D-B2C7EA3FF465
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// Language: Objective-C
-// Platform: iOS
+// IDECodeSnippetVersion: 2
 
 #pragma mark - UITableViewDataSource
 
